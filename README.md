@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bonjour je suis Bilal <img src="https://github.com/Bilal17z/Bilal17z/assets/71498660/b47785c9-8093-4890-93f1-ab64490b94af" style="width:50px;">
+
+J'ai 23 ans, je suis fan de manga/anime, de sport et de jeux vidéos </br>
+Je suis actuellement en formation en developpement web et mobile chez simplon </br>
+
+### Compétences
+- Html
+- Css
+- Sql
+
 
 <!--
 **Bilal17z/Bilal17z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
