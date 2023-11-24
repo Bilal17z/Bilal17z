@@ -8,7 +8,7 @@ Je suis actuellement en formation en developpement web et mobile chez simplon </
 - Css
 - Sql
 
-### Contacte <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📞</font></font>
+### Contact <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📞</font></font>
 Vous pouvez me contacter sur github pour l'instant <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😎</font></font>
 <!--
 **Bilal17z/Bilal17z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
